@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-   var animal = 'dog'
+   var animal = 'horse'
 
   // How can we make sure that this function
   // and the above function both pass?
